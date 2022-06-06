@@ -5,6 +5,35 @@
     <title>Title</title>
 </head>
 <body>
+<!--表单，按钮
+input type=radio是单选框，name属性可以对其分组
+input type=CheckBox是复选框
+select是下拉列表框
+option标签是下拉列表的选项
+textarea表示多行文本输入框,rows属性设置可以显示几行的宽度，cols属性设置每行显示几个字符宽度
+input type=reset 是重置按钮（value属性可以修改按钮上的文本，下同）
+input type=submit是提交按钮
+input type=button是按钮
+input type=file是文件上传域
+input type=hidden是隐藏域，当要发送某些信息而这些信息不需要用户参与就可以使用
+将表单放入table表格中可以变整齐
+-->
+<form>
+    用户名称:<input type="text" value="123"/><br/>
+    用户密码:<input type="password"/><br/>
+    性别：<input type="radio" name="sex" checked="checked">男<input type="radio" name="sex">女<br/>
+    兴趣爱好:<input type="checkbox" checked="checked">java<input type="checkbox">python<input type="checkbox">c++<br/>
+    国籍：<select>
+        <option>请选择国籍</option>
+        <option selected="selected">中国</option>
+        <option>美国</option>
+        <option>日本</option>
+        </select><br/>
+    自我评价：<textarea rows="10" cols="20"></textarea><br/>
+    <input type="reset">
+    <input type="submit">
+    <input type="button" value="abc"><br/>
+</form>
 
 </body>
 </html>

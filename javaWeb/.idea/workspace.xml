@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="042d3295-42f6-410b-a5a2-dabbdd28f035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/hello2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/hello3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/ifram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/com/lzl/java/learn/HelloIdea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/com/lzl/java/learn/HelloIdea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/com/lzl/java/learn/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/com/lzl/java/learn/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/Project.iml" afterDir="false" />
+    <list default="true" id="042d3295-42f6-410b-a5a2-dabbdd28f035" name="Changes" comment="javaweb1">
+      <change afterPath="$PROJECT_DIR$/JavaScript/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/逻辑运算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/css1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/表单提交.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/表单.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -35,6 +32,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ABRFecm5FoQYQ2ueGKEpJNYwio" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -51,10 +51,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/programApps/javaproject/untitled"
+    "last_opened_file_path": "D:/programApps/javaproject/javaWeb",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programApps\javaproject\javaWeb\html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\programApps\javaproject\javaWeb\html" />
     </key>
@@ -77,8 +83,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654480894420</updated>
-      <workItem from="1654480896165" duration="4225000" />
+      <workItem from="1654480896165" duration="7281000" />
+      <workItem from="1654495314681" duration="8853000" />
     </task>
+    <task id="LOCAL-00001" summary="javaweb1">
+      <created>1654492456819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654492456819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaweb1" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaweb1" />
   </component>
 </project>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--iframe标签可以在页面上开辟一个小区域显示一个单独的页面
+    iframe和a标签使用的步骤
+    1在iframe标签中使用name属性定义一个名称
+    2在a标签的target属性上设置iframe的name属性值
+-->
+<iframe src="hello.html" width="500" height="200" name="abc"></iframe>
+<ul>
+    <li><a href="hello.html" target="abc">标签1</a></li>
+    <li><a href="hello2.html" target="abc">标签2</a></li>
+    <li><a href="hello3.html" target="abc">标签3</a></li>
+
+</ul>
+</body>
+</html>

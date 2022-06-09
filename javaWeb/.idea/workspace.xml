@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="042d3295-42f6-410b-a5a2-dabbdd28f035" name="Changes" comment="javaweb1">
-      <change afterPath="$PROJECT_DIR$/JavaScript/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/逻辑运算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/css1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/表单提交.html" afterDir="false" />
+    <list default="true" id="042d3295-42f6-410b-a5a2-dabbdd28f035" name="Changes" comment="javaweb2">
+      <change afterPath="$PROJECT_DIR$/JavaScript/event/onload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/数组.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/表单.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/programApps/javaproject/javaWeb",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/programApps/javaproject/javaWeb&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\programApps\javaproject\javaWeb\html" />
@@ -84,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1654480894420</updated>
       <workItem from="1654480896165" duration="7281000" />
-      <workItem from="1654495314681" duration="8853000" />
+      <workItem from="1654495314681" duration="9526000" />
+      <workItem from="1654578663600" duration="6508000" />
     </task>
     <task id="LOCAL-00001" summary="javaweb1">
       <created>1654492456819</created>
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654492456819</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="javaweb2">
+      <created>1654506384174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654506384174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="javaweb1" />
-    <option name="LAST_COMMIT_MESSAGE" value="javaweb1" />
+    <MESSAGE value="javaweb2" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaweb2" />
   </component>
 </project>

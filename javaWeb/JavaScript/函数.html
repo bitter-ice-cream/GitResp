@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        //js不允许函数重载
+        //无参函数
+        function fun(){
+            alert("无参函数fun被调用了")
+        }
+        // fun();
+        function fun2(a,b){
+            alert("有参函数fun2被调用了a=>"+a+",b=>"+b);
+        }
+        // fun2(12,"abc");
+
+        //有返回值的函数
+        function sum(n1,n2){
+            let result = n1+n2;
+            return result;
+        }
+        // alert(sum(100,23));
+
+        //隐形参数
+        function fun3(){
+            alert(arguments.length);//可查看参数个数
+            for (let i = 0; i < arguments.length; i++) {
+                alert(arguments[i]);
+            }
+
+        }
+        fun3(1,'aa',true);
+
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>
